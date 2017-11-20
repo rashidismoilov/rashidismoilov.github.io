@@ -1,0 +1,32 @@
+body{
+
+background-repeat: no-repeat;
+border-width: 2px;
+background-size: 2500px;
+background-color: #90AFC5;
+
+
+}
+p{
+
+	border-bottom-style: groove;
+	border-bottom-color: rgb(0,015);
+}
+ul {
+	color: red;
+
+}
+h1{
+color: pink;
+	border-style: groove;
+	border-color: black;
+	border-bottom-style: dotted;
+	font-family: arial;
+
+
+	
+}
+img{
+
+	font-size: 
+}
